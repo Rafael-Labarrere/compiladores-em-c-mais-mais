@@ -1,7 +1,0 @@
-algoritmo "Teste"
-inicio
-    inteiro : x, y;
-    x <- 10;
-    y <- x + 5;
-    escreva(y);
-fim
